@@ -20,7 +20,7 @@ export default ({mode}) => {
                     // Full library.
                     'search-ui-vue-raw-elements': 'src/bundle.ts',
                     // Individual components.
-                    'checkbox': 'src/components/SearchFacetCheckbox/ce.ts',
+                    'checkbox': 'src/components/facets/SearchFacetCheckbox/ce.ts',
                     'input': 'src/components/SearchInput/ce.ts',
                     'pager': 'src/components/SearchPager/ce.ts',
                     'result': 'src/components/SearchResult/ce.ts',

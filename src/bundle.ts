@@ -3,7 +3,7 @@ import {defineCustomElement} from 'vue';
 // 1: Import.
 import SearchInput from './components/SearchInput/SearchInput.ce.vue';
 import SearchSummary from './components/SearchSummary/SearchSummary.ce.vue';
-import SearchSummaryFacetCheckbox from './components/SearchFacetCheckbox/SearchFacetCheckbox.ce.vue';
+import SearchSummaryFacetCheckbox from './components/facets/SearchFacetCheckbox/SearchFacetCheckbox.ce.vue';
 import SearchResult from './components/SearchResult/SearchResult.ce.vue';
 import SearchPager from './components/SearchPager/SearchPager.ce.vue';
 
