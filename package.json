@@ -1,5 +1,5 @@
 {
-  "name": "search-ui-vue-raw-elements",
+  "name": "builder-default-components",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,11 +10,11 @@
   "files": [
     "dist"
   ],
-  "main": "dist/search-ui-vue-raw-elements.js",
-  "module": "dist/search-ui-vue-raw-elements.js",
+  "main": "dist/builder-default-components.js",
+  "module": "dist/builder-default-components.js",
   "exports": {
     ".": {
-      "import": "./dist/search-ui-vue-raw-elements.js"
+      "import": "./dist/builder-default-components.js"
     }
   },
   "dependencies": {

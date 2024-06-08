@@ -18,13 +18,14 @@ export default ({mode}) => {
             lib: {
                 entry: {
                     // Full library.
-                    'search-ui-vue-raw-elements': 'src/bundle.ts',
+                    'builder-default-components-bundle': 'src/bundle.ts',
                     // Individual components.
                     'checkbox': 'src/components/facets/SearchFacetCheckbox/ce.ts',
                     'input': 'src/components/SearchInput/ce.ts',
                     'pager': 'src/components/SearchPager/ce.ts',
                     'result': 'src/components/SearchResult/ce.ts',
                     'summary': 'src/components/SearchSummary/ce.ts',
+                    'hero': 'src/components/Hero/ce.ts',
                 },
                 formats: ['es'],
             },
